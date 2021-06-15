@@ -10,6 +10,6 @@ git add .
 git commit -m "text Show commit"
 
 git remote -v
-git remote set-url origin https://github.com/weaesoft/Batch.git
+git remote add origin https://github.com/weaesoft/Batch.git
 
 git push -u origin master
