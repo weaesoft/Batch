@@ -9,7 +9,4 @@ echo "backet" >> filename.txt
 git add .
 git commit -m "text Show commit"
 
-git remote -v
-git remote add origin https://github.com/weaesoft/Batch.git
 
-git push -u origin master
